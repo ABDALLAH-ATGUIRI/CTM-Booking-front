@@ -18,6 +18,7 @@
     "tailwindcss": "^3.3.3"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
     "@pinia/nuxt": "^0.4.11",
     "element-plus": "^2.3.12",
     "pinia": "^2.1.6"

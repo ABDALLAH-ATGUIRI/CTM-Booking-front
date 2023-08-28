@@ -1,4 +1,5 @@
 <template>
-  <h1>hhhhhhhhhhhhh</h1>
+  <h1>Hello world</h1>
 </template>
-<script></script>
+
+<script setup></script>
