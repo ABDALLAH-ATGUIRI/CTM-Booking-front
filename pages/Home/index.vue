@@ -1,0 +1,17 @@
+<template>
+  <div class="w-full">
+    <navbar />
+    <Hero />
+
+    <div class="w-full h-[500px] flex justify-center items-center">
+      <filter-form></filter-form>
+    </div>
+
+    <services></services>
+  </div>
+</template>
+<script setup>
+import Navbar from "~/components/Navbar.vue";
+import Hero from "./Hero";
+import Services from "./Services";
+</script>
