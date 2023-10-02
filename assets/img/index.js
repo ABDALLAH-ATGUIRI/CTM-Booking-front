@@ -18,6 +18,21 @@ import bmw09 from "./cars/bmw/bmw-9.png";
 import bmw10 from "./cars/bmw/bmw-10.png";
 import bmw11 from "./cars/bmw/bmw-11.png";
 
+import speed from "./icons/speed.svg";
+import fire from "./icons/fire.svg";
+import fuel from "./icons/fuel.svg";
+import users from "./icons/users.svg";
+
+const brandsIcons = {
+  Bmw,
+  Ford,
+  Lamborghini,
+  MercedesBenz,
+  Nissan,
+  Porsche,
+  Tesla
+};
+
 const cars = {
   bmw01,
   bmw02,
@@ -32,14 +47,11 @@ const cars = {
   bmw11
 };
 
-const brandsIcons = {
-  Bmw,
-  Ford,
-  Lamborghini,
-  MercedesBenz,
-  Nissan,
-  Porsche,
-  Tesla
+const icons = {
+  speed,
+  fire,
+  fuel,
+  users
 };
 
-export { brandsIcons, cars };
+export { brandsIcons, cars, icons };
