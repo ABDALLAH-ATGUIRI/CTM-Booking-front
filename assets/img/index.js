@@ -22,6 +22,10 @@ import speed from "./icons/speed.svg";
 import fire from "./icons/fire.svg";
 import fuel from "./icons/fuel.svg";
 import users from "./icons/users.svg";
+import cash from "./icons/cash.svg";
+import time from "./icons/time.svg";
+import user from "./icons/user.svg";
+import chat from "./icons/chat.svg";
 
 const brandsIcons = {
   Bmw,
@@ -51,7 +55,11 @@ const icons = {
   speed,
   fire,
   fuel,
-  users
+  users,
+  time,
+  user,
+  chat,
+  cash
 };
 
 export { brandsIcons, cars, icons };
