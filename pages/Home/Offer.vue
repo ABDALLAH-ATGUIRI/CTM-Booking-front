@@ -3,6 +3,7 @@
     <section-head
       title="Best Offers"
       subtitle=" We Offer best experience with our rental deals"
+      color="black"
     ></section-head>
     <div
       class="w-full h-full flex flex-col lg:flex-row items-center justify-between gap-2 md:p-0"
@@ -11,9 +12,7 @@
         <img :src="cars.bmw03" class="w-full h-full" />
       </div>
 
-      <div
-        class=" item-end flex flex-col justify-evenly gap-4 lg:gap-10 pr-12"
-      >
+      <div class="item-end flex flex-col justify-evenly gap-4 lg:gap-10 pr-12">
         <div
           v-for="(item, i) in offer"
           :key="i"
