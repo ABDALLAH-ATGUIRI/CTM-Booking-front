@@ -6504,6 +6504,11 @@ thenify-all@^1.0.0:
   dependencies:
     any-promise "^1.0.0"
 
+three@^0.158.0:
+  version "0.158.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.158.0.tgz#03ddd5b60ce9c31be8fb69f27a6d9efd49908ac3"
+  integrity sha512-TALj4EOpdDPF1henk2Q+s17K61uEAAWQ7TJB68nr7FKxqwyDr3msOt5IWdbGm4TaWKjrtWS8DJJWe9JnvsWOhQ==
+
 through@^2.3.8:
   version "2.3.8"
   resolved "https://registry.npmjs.org/through/-/through-2.3.8.tgz"
@@ -6834,6 +6839,11 @@ validate-npm-package-name@^5.0.0:
   integrity sha512-YuKoXDAhBYxY7SfOKxHBDoSyENFeW5VvIIQp2TGQuit8gpK6MnWaQelBKxso72DoxTZfZdcP3W90LqpSkgPzLQ==
   dependencies:
     builtins "^5.0.0"
+
+vanta@^0.5.24:
+  version "0.5.24"
+  resolved "https://registry.yarnpkg.com/vanta/-/vanta-0.5.24.tgz#46ec96b0b88cdcc57b7cee383e1d5f74bd3d4fb3"
+  integrity sha512-fvieEbHy1ZS23zrcX+topzqAgA4Uct1enngOEWLFBgs9TtOf6RDFOYatH7KSVdrABzQDMCQ5myQy+nTSZZwLzg==
 
 vary@^1.1.2:
   version "1.1.2"

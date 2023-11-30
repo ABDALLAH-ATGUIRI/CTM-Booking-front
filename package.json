@@ -21,6 +21,8 @@
     "@element-plus/icons-vue": "^2.1.0",
     "@pinia/nuxt": "^0.4.11",
     "element-plus": "^2.3.12",
-    "pinia": "^2.1.6"
+    "pinia": "^2.1.6",
+    "three": "^0.158.0",
+    "vanta": "^0.5.24"
   }
 }
