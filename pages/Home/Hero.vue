@@ -38,7 +38,7 @@
         class="!font-['Roboto'] font-bold text-white md:text-6xl sm:text-4xl text-3xl md:!leading-[100px] sm:!leading-[60px] mt-2"
       >
         Fast And Easy Way To Rent <br /><span
-          :class="styles.heroHeadText + ' bg-red-600 px-4'"
+          :class="' bg-red-600 px-4'"
           >A Branded</span
         >
         Car

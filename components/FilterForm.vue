@@ -50,7 +50,6 @@
 
 <script setup>
 import { reactive, ref } from "vue";
-import { Location, Calendar } from "@element-plus/icons-vue";
 
 const value = ref("");
 const options = reactive([
